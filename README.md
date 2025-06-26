@@ -9,7 +9,7 @@ CrossPay is a blockchain-powered application for making cross-border payments us
 - **Multi-Currency Support**: Convert between different currencies seamlessly
 - **Regulatory Compliance**: Built-in support for country-specific regulations
 - **User Verification**: KYC/AML verification for secure transactions
-- **Wallet Integration**: Connect popular web3 wallets via RainbowKit
+- **Wallet Integration**: Connect popular web3 wallets via RainbowKit.
 
 ## Pharos Network Integration
 
